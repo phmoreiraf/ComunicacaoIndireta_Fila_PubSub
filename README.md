@@ -1,4 +1,4 @@
-# ComunicacaoIndireta_Fila_PubSub
+# Comunicação Indireta
 
 # Diferenças entre Abordagens Implementadas
 
